@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Taylor Czerwinski, test website</title>
-		<!-- link to main stylesheet -->
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
+		<title>Hank Quinlan, Horrible Cop</title>
 	</head>
 	<body>
 		<nav>
@@ -16,13 +14,13 @@
 		</nav>
 		<div class="container">
     		<div class="blurb">
-        		<h1>Hi there, I'm Taylor Czerwinski!</h1>
-				<p> I like <em> horses </em> Don't trust me. <a href="/about">Read more about my life...</a></p>
+        		<h1>Hi there, I'm Hank Quinlan!</h1>
+				<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
     		<ul>
-        		<li><a href="taylorc2@illinois.edu">email</a></li>
+        		<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
         		<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
 			</ul>
 		</footer>
