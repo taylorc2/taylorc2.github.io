@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Taylor Czerwinski's test website<lan, /title>
+		<title>Taylor Czerwinski's test website</title>
 	</head>
 	<body>
 		<nav>
