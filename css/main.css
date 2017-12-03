@@ -8,19 +8,20 @@ h1, h2, h3, h4{
 	line-height: 1.1em;
 	margin: 0 0 .5em 0;
 }
-h1{ font-size: 1.7em; }
+h1{ font-size: 1.7em;
+color: #BD67FF; }
 h2{ font-size: 1.5em; }
 a{
 	color: black;
 	text-decoration: none;
 }
 	a:hover,
-	a:active{ text-decoration: underline; }
+	a:active
 
 /* you can structure your code's white space so that it is as readable for when you come back in the future or for other people to read and edit quickly */
 
 body{
-    font-family: arial; font-size: 80%; line-height: 1.2em; width: 100%; margin: 0; background: #eee;
+    font-family: arial; font-size: 1em; line-height: 1.2em; width: 100%; margin: 0; background: #eee;
 }
 /* you can put your code all in one line like above */
 #page{ margin: 20px; }
@@ -29,14 +30,14 @@ body{
 #logo{
 	width: 35%;
 	margin-top: 5px;
-	font-family: georgia;
-	display: inline-block;
+	font-family: arial;
+	display: wrap;
 }
 /* but try and be as concise as possible */
 #nav{
 	width: 60%;
-	display: inline-block;
-	text-align: right;
+	display: inline;
+	text-align: left;
 	float: right;
 }
 	#nav ul{}
