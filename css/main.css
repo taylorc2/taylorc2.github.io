@@ -63,15 +63,19 @@ body{
 	padding: 20px;
 	clear: both;
 }
-#footer{
-	border-bottom: 1px #ccc solid;
-	margin-bottom: 10px;
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
 }
-	#footer ul{
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	}
+
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+}
 
 /* multiple styles seperated by a , */
 #content,
