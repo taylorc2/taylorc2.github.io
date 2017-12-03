@@ -39,6 +39,7 @@ body{
 	display: inline;
 	text-align: left;
 	float: right;
+	list-style-type: none;
 }
 	#nav ul{}
 		#nav ul li{
