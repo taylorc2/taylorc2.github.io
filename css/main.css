@@ -27,37 +27,38 @@ body{
 #page{ margin: 20px; }
 
 /* or on different lines like below */
-#logo{
+.logo{
 	width: 35%;
 	margin-top: 5px;
 	font-family: arial;
 	display: wrap;
 }
 /* but try and be as concise as possible */
-#nav{
+.nav{
 	width: 60%;
 	display: inline;
 	text-align: left;
 	float: right;
 
 }
-	#nav ul{}
-		#nav ul li{
+	.nav ul{    list-style-type: none;
+}
+		.nav ul li{
 			display: inline-block;
 			height: 62px;
 		}
-			#nav ul li a{
+			.nav ul li a{
 				padding: 20px;
 				background: orange;
 				color: white;
 			}
-			#nav ul li a:hover{
+			.nav ul li a:hover{
 				background-color: #ffb424;
 				box-shadow: 0px 1px 1px #666;
 			}
-			#nav ul li a:active{ background-color: #ff8f00; }
+			.nav ul li a:active{ background-color: #ff8f00; }
 
-#content{
+.content{
 	margin: 30px 0;
 	background: white;
 	padding: 20px;
