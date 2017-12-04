@@ -72,6 +72,10 @@ footer ul{
 	list-style-type: none;
 }
 
+.no-bullets {
+    list-style-type: none;
+}
+
 /* multiple styles seperated by a , */
 #content,
 ul li a{ box-shadow: 0px 1px 1px #999; }
