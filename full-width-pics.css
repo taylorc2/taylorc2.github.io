@@ -14,10 +14,19 @@ body {
   }
 }
 
+
 .bg-image-full {
   background: no-repeat center;
 //  -webkit-background-size: cover;
 //  -moz-background-size: cover;
   background-size: 200px 100px;
+//  -o-background-size: cover;
+}
+
+.bg-image-full-backup {
+  background: no-repeat center;
+//  -webkit-background-size: cover;
+//  -moz-background-size: cover;
+  background-size: 100px 100px;
 //  -o-background-size: cover;
 }
