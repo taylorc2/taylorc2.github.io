@@ -76,6 +76,7 @@ body{
 .contactMe ul{
 	list-style-type: none;
 	display:inline-block;
+    	list-style-type: none;
 }
 
 .content{
@@ -93,10 +94,6 @@ footer {
 footer ul{
 	list-style-type: none;
 	display:inline-block;
-}
-
-.no-bullets {
-    list-style-type: none;
 }
 
 /* multiple styles seperated by a , */
