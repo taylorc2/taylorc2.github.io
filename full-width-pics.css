@@ -19,7 +19,7 @@ body {
   background: no-repeat center;
 //  -webkit-background-size: cover;
 //  -moz-background-size: cover;
-  background-size: 200px 90px;
+  background-size: 200px 100px;
 //  -o-background-size: cover;
 }
 
@@ -27,6 +27,6 @@ body {
   background: no-repeat center;
 //  -webkit-background-size: cover;
 //  -moz-background-size: cover;
-  background-size: 200px 80px;
+  background-size: 200px 100px;
 //  -o-background-size: cover;
 }
